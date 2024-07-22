@@ -144,7 +144,7 @@ const data = [
   },
   {
     id: 12,
-    title: "Property 1",
+    title: "Property 12",
     image:
       "https://images.unsplash.com/photo-1532695658265-5e9be3ea2b7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTN8MjMwMzE1MXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
     type: "house",

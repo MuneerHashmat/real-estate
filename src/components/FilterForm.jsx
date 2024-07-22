@@ -22,8 +22,8 @@ const FilterForm = () => {
     reset();
   };
   return (
-    <div className="p-3 mt-5 bg-gray-200 flex flex-col items-center">
-      <h1 className="text-center text-2xl font-semibold mb-4">
+    <div className="px-3 py-7 mt-5 bg-gray-200 flex flex-col items-center">
+      <h1 className="text-center text-2xl font-semibold mb-7">
         Filter Properties
       </h1>
       <form
