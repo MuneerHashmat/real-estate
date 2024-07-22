@@ -39,7 +39,7 @@ The task was to create a simple real estate website which provides a listing of 
 
 - Learned optimal use of react context api
 - Learned efficient use of local storage
-- Learned to utilize useParams hook of react-router-dom
+- Learned navigation using react-router-dom
 
 ## Future improvements
 
