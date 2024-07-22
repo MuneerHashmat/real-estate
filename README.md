@@ -1,34 +1,47 @@
 # Real Estate Website
 
-This is a simple real estate website which provides a listing of available properties. User can filter properties based on city, price, property type and number of beds. User can also add properties to favourites.
+## Task overview
+
+The task was to create a simple real estate website which provides a listing of available properties. <br> The website should have filters based on categories such as city, price, property type and number of beds. User should also be able to add properties to favourites.
 
 ## Live Demo:
 
 ### [StayEasy](https://real-estate-nine-beta.vercel.app/)
 
-## Features:
+## Functionalities:
 
-- 📱 Fully responsive ui
-- 🏠 A wide range of properties
-- 📁 Filtering based on different categories
+- Listing of properties
+- Filtering of properties based on different categories
+- Adding properties to favourites
 
 ## Extra feature:
 
-- 🗃️ Local storage implementation for liked properties
+- Local storage implementation for liked properties
 
-## Tech Stack:
+## Libraries and frameworks used:
 
 - React JS
 - Tailwind CSS
+- mui
+- react-router-dom
 
-## Installation:
+## Screenshots
 
-1. Clone this repository :
+### Home
 
-```bash
-git https://github.com/MuneerHashmat/real-estate.git
-```
+![image](./src/assets/1.png)
 
-2. Navigate to the folder: `cd real-estate`
-3. Install the dependencies: `npm install`
-4. Start development server: npm run dev
+## Liked Properties
+
+![image](./src/assets/2.png)
+
+## Learning from this project:
+
+- Learned optimal use of react context api
+- Learned efficient use of local storage
+- Learned to utilize useParams hook of react-router-dom
+
+## Future improvements
+
+- Sort properties based on price, size etc.
+- Integrate booking process and payment.
