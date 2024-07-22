@@ -16,7 +16,7 @@ const Liked = () => {
         </Link>
       </div>
       {likedProperties.length > 0 ? (
-        <div className="flex flex-wrap gap-5 w-[80vw] mx-auto mb-10 mt-5 justify-center">
+        <div className="flex flex-wrap gap-5 w-[80vw] mx-auto mb-10 mt-5">
           {likedProperties.map((property) => (
             <PropertyCard key={property.id} property={property} />
           ))}
